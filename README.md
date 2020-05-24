@@ -15,7 +15,7 @@ Repositorio con materiales de la asignatura [TISD](https://masteres.ugr.es/telec
 
 - Lunes 18/5/2020 - Práctica: [tutorial 2](https://github.com/jgromero/tisd2020/blob/master/pr%C3%A1cticas/Tutorial%20Postman%202.pdf) 
 
-- *Instrucciones para entrega de prácticas*: [documento](https://github.com/jgromero/tisd2020/blob/master/pr%C3%A1cticas/Guion%20de%20pr%C3%A1cticas.pdf) | vídeo
+- **Instrucciones para entrega de prácticas**: [documento](https://github.com/jgromero/tisd2020/blob/master/pr%C3%A1cticas/Guion%20de%20pr%C3%A1cticas.pdf) | vídeo
 
 El acceso a los vídeos debe hacerse utilizando la cuenta @go.ugr.es.
 
