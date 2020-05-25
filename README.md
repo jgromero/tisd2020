@@ -11,7 +11,7 @@ Repositorio con materiales de la asignatura [TISD](https://masteres.ugr.es/telec
 
 - Martes 18/5/2020 - Teoría:  [tema](https://github.com/jgromero/tisd2020/blob/master/teor%C3%ADa/Sistemas%20de%20acceso%20a%20la%20informaci%C3%B3n%20en%20Internet%20I.pdf) | [vídeo](https://drive.google.com/file/d/1k0QdX42-fI4N9AQWAIrSjHTGsyqXIZCg/view?usp=sharing)
 
-- Lunes 25/5/2020 - Teoría: [tema](https://github.com/jgromero/tisd2020/blob/master/teor%C3%ADa/Sistemas%20de%20acceso%20a%20la%20informaci%C3%B3n%20en%20Internet%20I.pdf) | vídeo
+- Lunes 25/5/2020 - Teoría: [tema](https://github.com/jgromero/tisd2020/blob/master/teor%C3%ADa/Sistemas%20de%20acceso%20a%20la%20informaci%C3%B3n%20en%20Internet%20I.pdf) | [vídeo](https://drive.google.com/file/d/1MtKFMQvbgcNzmsjikIr_bmAK2qp_OHdu/view?usp=sharing)
 
 - Lunes 18/5/2020 - Práctica: [tutorial 2](https://github.com/jgromero/tisd2020/blob/master/pr%C3%A1cticas/Tutorial%20Postman%202.pdf) | [colección Postman](https://www.getpostman.com/collections/88d30175b1fc2e41cca5) | vídeo
 
